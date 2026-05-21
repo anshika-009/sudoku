@@ -39,11 +39,31 @@ A fully functional Sudoku game built with Java Swing, featuring puzzle fetching 
 ## 🎮 How to Play
 
 1. Select a number (1-9) from the bottom panel
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b14ab7e0-9f05-42b9-8edc-3ec51cb413e5" />
+
+
 2. Click any empty cell on the board to place it
+   
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/465327ee-4c91-4084-899a-686794cf77af" />
+
+
 3. Use **CHECK MOVES** to verify your answers
+   
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e237d929-1ef0-46fd-abf3-d684140c6a85" />
+
+
 4. Use **SEE SOLUTION** if you're stuck
-5. Click **NEW GAME** to fetch a fresh puzzle
-6. **RESET** clears your moves without changing the puzzle
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/51024ff1-7245-4b44-ac84-4826176c088a" />
+
+
+6. Click **NEW GAME** to fetch a fresh puzzle
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/18b9bf4d-27d5-4707-810d-f9155958be4c" />
+
+
+7. **RESET** clears your moves without changing the puzzle
 
 ---
 
