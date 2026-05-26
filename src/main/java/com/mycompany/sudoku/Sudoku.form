@@ -136,7 +136,7 @@
                   <Group type="102" alignment="0" attributes="0">
                       <Group type="103" groupAlignment="1" max="-2" attributes="0">
                           <Component id="jPanel7" pref="223" max="32767" attributes="0"/>
-                          <Component id="jPanel2" pref="0" max="32767" attributes="0"/>
+                          <Component id="jPanel2" pref="223" max="32767" attributes="0"/>
                           <Component id="jPanel1" pref="223" max="32767" attributes="0"/>
                       </Group>
                       <Group type="103" groupAlignment="0" attributes="0">
@@ -280,21 +280,13 @@
                       <Component id="B37" alignment="1" max="32767" attributes="0"/>
                       <Component id="B28" alignment="0" pref="65" max="32767" attributes="0"/>
                   </Group>
+                  <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" attributes="0">
-                          <EmptySpace max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="B38" min="-2" pref="65" max="-2" attributes="0"/>
-                              <Component id="B29" min="-2" pref="65" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" max="-2" attributes="0"/>
-                      </Group>
-                      <Group type="102" alignment="1" attributes="0">
-                          <EmptySpace max="-2" attributes="0"/>
-                          <Component id="B47" min="-2" pref="65" max="-2" attributes="0"/>
-                          <EmptySpace max="-2" attributes="0"/>
-                      </Group>
+                      <Component id="B38" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="B29" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="B47" alignment="1" min="-2" pref="65" max="-2" attributes="0"/>
                   </Group>
+                  <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="B30" alignment="1" min="-2" pref="65" max="-2" attributes="0"/>
                       <Component id="B39" alignment="1" min="-2" pref="65" max="-2" attributes="0"/>
@@ -656,10 +648,7 @@
                           </Group>
                           <EmptySpace max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="102" alignment="0" attributes="0">
-                                  <Component id="B33" min="-2" pref="64" max="-2" attributes="0"/>
-                                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
-                              </Group>
+                              <Component id="B33" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
                               <Group type="102" alignment="1" attributes="0">
                                   <Component id="B42" min="-2" pref="64" max="-2" attributes="0"/>
                                   <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
