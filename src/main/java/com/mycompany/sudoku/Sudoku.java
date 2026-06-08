@@ -316,7 +316,9 @@ public final class Sudoku extends javax.swing.JFrame {
                 board[i][j].setBackground(Color.LIGHT_GRAY);                }
             }
         }
-         AssignTurn(b1);    
+        solution.setText("SEE SOLUTION");
+        check.setText("CHECK MOVES");
+        AssignTurn(b1);    
         
     }
     
